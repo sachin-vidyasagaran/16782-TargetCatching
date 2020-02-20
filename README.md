@@ -3,8 +3,7 @@ An A* motion planner written for Assignment 1 of the Graduate Course 16-782: Pla
 
 An agent (in green) must plan a least-cost path to catch a target (in pink) with a predefined trajectory in any given map.
 
-![Map 1](/images/map1.jpg) ![Map 2](/images/map2.jpg)
-![Map 3](/images/map3.jpg) ![Map 4](/images/map4.jpg)
+![Example](/images/maps.jpg)
 
 ## Compilation Instructions
 To compile the planner, open the runtest.m file and type
